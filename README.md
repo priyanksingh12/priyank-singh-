@@ -10,7 +10,7 @@ I'm a Computer Science student specializing in **Data Science**, currently learn
 ## Tech I'm Exploring
 - Java (beginner)
 - Basics of data science & programming logic
-
+- Basic knowledge of HTML and CSS
 ## Hobbies
 When I'm not coding, you can find me reading books or diving into something curious and new.
 
